@@ -1,0 +1,4 @@
+sources:
+  "latest":
+    url: "https://github.com/janekb04/glfwpp.git"
+    commit: "17b0ca06799fec64f63f5006fe45209ce33aace0"
