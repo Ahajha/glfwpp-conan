@@ -1,5 +1,5 @@
 # glfwpp-conan
-A basic Conan package for the glfw-pp library
+A basic Conan package for the glfwpp library
 
 ## How to install the package
 ```
